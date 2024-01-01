@@ -4,8 +4,8 @@ Evaluating the Disposal Problems of Solid Waste Management in Nigeria Using Masa
 - [Abstract](#Abstract)
 - [Research Aims and Objectives](#Research-Aims-and-Objectives)
 - [Result Images Using ANOVA in Python](#Result-Images-Using-ANOVA-in-Python)
-- [This Python code performs a one-way ANOVA analysis and creates visualizations of the data using a data table, box plot, and histogram.](#This-Python-code-performs-a-one-way-ANOVA-analysis-and-creates-visualizations-of-the-data-using-a-data-table,-box-plot,-and-histogram.)
-- [RECOMMENDATION AND CONCLUSION](#RECOMMENDATION-AND-CONCLUSION)
+- [This Python code performs a one way ANOVA analysis and creates visualizations of the data using a data table box plot and histogram.](#This-Python-code-performs-a-one-way-ANOVA-analysis-and-creates-visualizations-of-the-data-using-a-data-table-box-plot-and-histogram.)
+- [Recommendation And Conclusion](#Recommendation-And-Conclusion)
 ### Abstract
 The improper disposal of solid waste in Masaka, a town in Karu Local Government Area of Nasarawa State, in Nigeria, has become a major environmental and public health concern. This research project aimed to evaluate the disposal problems of solid waste management in Masaka and identify potential solutions. The study was based on a comprehensive analysis of the current solid waste management system, including the generation and disposal practices, the challenges and problems associated with waste disposal. The study utilizes Microsoft excel, ANOVA and Tukey’s Honest Significant Difference Test in python to evaluate and determine the difference in the type of waste disposed at the three different randomly selected dumpsites, the rate of waste disposal as well as the type and quantity of waste disposed of by randomly selected 50 households in Masaka. The study also makes use of three distinct categories of questionnaires around solid waste management, waste disposal by income as well as waste disposal by gender to collectively generate required qualitative, descriptive, and quantitative data needed for waste disposal evaluation from the randomly selected 50 respondents. The study also examined the impacts of these disposal problems on the environment and public health and studied best practices in solid waste management from other countries. The research found that inadequate funding and poor public participation, education on waste management and disposal methods for the Masaka community, lack of proper infrastructure, lack of government support in waste management and ineffective enforcement of waste management regulations were major challenges to proper solid waste management in Masaka. The study identified potential solutions to these challenges, including increased public education and awareness, investment in proper infrastructure, promotion of waste reduction and recycling, and the involvement of the private sector. The study recommends the use of an integrated waste management framework modeled towards achieving sustainable waste management goals and a safer environment as a way forward solution to curb the menace of improper solid waste disposal. The findings of this research can help to inform policy and decision-making and contribute to the development of a more sustainable and efficient solid waste management system in Masaka, Nasarawa State.
 
@@ -51,7 +51,7 @@ Figure 3.3c: Bag C Waste by Volume Analysis
 ![image](https://github.com/Chuks200/An-Msc-Project-on-Environmetal-Management-and-Sustainability-/assets/150162291/b2e52bcc-fd20-45ad-99c8-3d166116e622)
 
 
-### This Python code performs a one-way ANOVA analysis and creates visualizations of the data using a data table, box plot, and histogram.
+### This Python code performs a one way ANOVA analysis and creates visualizations of the data using a data table box plot and histogram.
 
 ![image](https://github.com/Chuks200/An-Msc-Project-on-Environmetal-Management-and-Sustainability-/assets/150162291/796a61f9-a096-4993-8e4c-820ba9680206)
 
@@ -61,7 +61,7 @@ Figure 3.3c: Bag C Waste by Volume Analysis
 ![image](https://github.com/Chuks200/An-Msc-Project-on-Environmetal-Management-and-Sustainability-/assets/150162291/2357b1ac-551e-4e13-8533-a65004bd332a)
 
 
-### RECOMMENDATION AND CONCLUSION 
+### Recommendation And Conclusion 
   
 #### Recommendations 
   
